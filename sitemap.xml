@@ -1,14 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
-        <lastmod></lastmod>
+        <loc>https://kimi8386.github.io/eLearning/index.html</loc>
+        <lastmod>10.01.2026</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc></loc>
-        <lastmod></lastmod>
+        <loc>https://kimi8386.github.io/eLearning/autor.html</loc>
+        <lastmod>10.01.2026</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1</priority>
+        <priority>0.5</priority>
     </url>
     
