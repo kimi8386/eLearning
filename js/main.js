@@ -164,7 +164,7 @@ var courses=[
             data:'0.1s'
         },
         imgCourses:{
-            src: 'assets/img/course-1.jpg',
+            src: 'img/course-1.jpg',
             alt: 'slika1'
         },
         cost:{
@@ -187,7 +187,7 @@ var courses=[
             data:'0.3s'
         },
         imgCourses:{
-            src: 'assets/img/course-2.jpg',
+            src: 'img/course-2.jpg',
             alt: 'slika2'
         },
         cost:{
@@ -210,7 +210,7 @@ var courses=[
             data:'0.5s'
         },
         imgCourses:{
-            src: 'assets/img/course-3.jpg',
+            src: 'img/course-3.jpg',
             alt: 'slika3'
         },
         cost:{
@@ -351,7 +351,7 @@ var inst=[
             data:'0.1s'
         },
         imginst:{
-            src:'assets/img/team-1.jpg',
+            src:'img/team-1.jpg',
             alt:'slika1'
         },
         inst:{
@@ -364,7 +364,7 @@ var inst=[
             data:'0.3s'
         },
         imginst:{
-            src:'assets/img/team-2.jpg',
+            src:'img/team-2.jpg',
             alt:'slika2'
         },
         inst:{
@@ -377,7 +377,7 @@ var inst=[
             data:'0.5s'
         },
         imginst:{
-            src:'assets/img/team-3.jpg',
+            src:'img/team-3.jpg',
             alt:'slika3'
         },
         inst:{
@@ -390,7 +390,7 @@ var inst=[
             data:'0.7s'
         },
         imginst:{
-            src:'assets/img/team-4.jpg',
+            src:'img/team-4.jpg',
             alt:'slika4'
         },
         inst:{
@@ -555,4 +555,5 @@ function setErrorStyle(errorElement, errorMessage, hasError) {
     if(hasError){
         numErr++;
     }
+
 }
