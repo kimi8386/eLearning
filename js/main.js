@@ -469,7 +469,7 @@ var emailRegEx=/(@gmail\.com|yahoo\.com|ict\.edu\.rs)$/
 
 
 var btn = document.getElementById('btn');
-btn.addEventListener('click', validateForma);
+btn.addEventListener('click', validateForm);
 
 
 erFirst = document.getElementById('erFirst');
@@ -557,3 +557,4 @@ function setErrorStyle(errorElement, errorMessage, hasError) {
     }
 
 }
+
